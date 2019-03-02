@@ -1,0 +1,22 @@
+{
+	"name": "dreamweaver-html-colors",
+	"title": "Color Tag Names",
+	"description": "Custom colors for each HTML Tag for dreamweaver.",
+	"homepage": "https://github.com/jsonjuri/",
+	"version": "0.0.1",
+	"keywords": ["color","tag"],
+	"author": "jsonjuri <jsonjuri@gmail.com> (https://github.com/jsonjuri/)",
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.8.0"
+	},
+	"i18n": [
+		"en"
+	],
+	"package-i18n":{
+		"en":{
+			"description": "Custom colors for each HTML Tag for dreamweaver.",
+			"title": "Color HTML Tags"
+		}
+	}
+}
