@@ -3,8 +3,7 @@ Dreamweaver CC - HTML Code Coloring Extension
 
 [Adobe Dreamweaver CC IDE] dreamweaver / brackets extension which visualizes HTML code coloring.
 
-This extension adds the CSS class `<span class="cm-variable"></span>` and `<span class="cm-variable-2"></span>` to edit code coloring. 
-The styles are defined in `main.less` and variables in `main.js`.
+To edit code coloring the styles are defined in `main.less`
 
 ## Install
 
