@@ -1,4 +1,4 @@
-dreamweaver-html-colors
+Dreamweaver CC - HTML Code Coloring Extension
 =======================
 
 [Adobe Dreamweaver CC IDE] dreamweaver / brackets extension which visualizes HTML code coloring.
